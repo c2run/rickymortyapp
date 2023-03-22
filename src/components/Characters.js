@@ -1,5 +1,5 @@
+export default function Characters(props){
 
-const Characters = () => {
     return (
         <div>
             <h1>Desde Character JS</h1>
@@ -7,4 +7,4 @@ const Characters = () => {
     );
 }
 
-export default Characters;
+
